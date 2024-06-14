@@ -4,3 +4,4 @@ victoriametrics/victoria-metrics:v1.79.12
 flashcatcloud/ibex:v1.2.0
 flashcatcloud/nightingale:latest
 flashcatcloud/categraf:latest
+prom/prometheus
