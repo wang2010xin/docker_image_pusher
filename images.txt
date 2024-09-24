@@ -10,8 +10,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openebs/node-disk-manager:2.1.0
-openebs/node-disk-operator:2.1.0
-openebs/node-disk-exporter:2.1.0
-openebs/node-disk-exporter:2.1.0
-openebs/provisioner-localpv:3.4.0
+flannel/flannel-cni-plugin:v1.1.0
