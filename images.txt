@@ -10,4 +10,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-flannel/flannel-cni-plugin:v1.1.0
+portainer/agent:2.16.0
