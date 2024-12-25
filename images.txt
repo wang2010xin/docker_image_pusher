@@ -11,5 +11,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-eolinker/apinto-dashboard:1.2.1-beta
+docker.io/eolinker/apinto-gateway:latest
 
