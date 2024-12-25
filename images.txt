@@ -10,11 +10,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-docker.io/library/nginx:stable-alpine
-docker.io/library/mysql:5.7
-docker.io/library/redis:6.2
-docker.io/prom/prometheus:v2.54.1
-flashcatcloud/categraf:latest
-flashcatcloud/nightingale:7.0.0
 
+eolinker/apinto-dashboard:1.2.1-beta
 
