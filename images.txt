@@ -11,5 +11,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-flashcatcloud/nightingale:7.7.2
-flashcatcloud/nightingale:8.0.0-beta.1-amd64
+eolinker/apinto-dashboard:3.3.3
