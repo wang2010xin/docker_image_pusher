@@ -11,4 +11,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-eolinker/apinto-dashboard:2.1.0
+mysql:5.7.34
