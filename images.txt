@@ -11,4 +11,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-eolinker/apinto-gateway:0.19.4
+eolinker/apinto-dashboard:2.1.0
