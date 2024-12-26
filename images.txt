@@ -11,4 +11,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-eolinker/apinto-dashboard:3.3.3
+eolinker/cluster-redis:7.2.4
+influxdb:2.6
