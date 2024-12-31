@@ -11,8 +11,18 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
+goharbor/nginx-photon:v2.8.0
+goharbor/harbor-portal:v2.8.0
+goharbor/harbor-core:v2.8.0
+goharbor/harbor-jobservice:v2.8.0
+goharbor/registry-photon:v2.8.0
+goharbor/harbor-registryctl:v2.8.0
+goharbor/trivy-adapter-photon:v2.8.0
+goharbor/notary-server-photon:v2.8.0
+goharbor/notary-signer-photon:v2.8.0
+goharbor/harbor-db:v2.8.0
+goharbor/redis-photon:v2.8.0
+goharbor/harbor-exporter:v2.8.0
 
 
-postgres:13.7-bullseye
-registry.cn-shanghai.aliyuncs.com/acs/busybox:v1.29.2
-redis:6.2.7-alpine3.16
+
