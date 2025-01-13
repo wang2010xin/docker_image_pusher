@@ -11,6 +11,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-goharbor/chartmuseum-photon:v2.8.0
+goharbor/chartmuseum-photon:v2.7.4
 
 
