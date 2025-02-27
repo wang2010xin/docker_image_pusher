@@ -11,6 +11,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-php:8.2-apache
-
+victoriametrics/vmselect:v1.63.0-cluster
+victoriametrics/vminsert:v1.63.0-cluster
+victoriametrics/vmstorage:v1.63.0-cluster
 
