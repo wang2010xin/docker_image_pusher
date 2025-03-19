@@ -11,4 +11,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-grafana/grafana:11.5.2
+kong/kong:3.9.0
+bitnami/postgresql:15.5.0
+pantsel/konga:0.14.9
+postgres:12
