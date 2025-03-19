@@ -11,7 +11,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-kong/kong:3.9.0
-bitnami/postgresql:15.5.0
-pantsel/konga:0.14.9
-postgres:12
+kong/kong:3.9
