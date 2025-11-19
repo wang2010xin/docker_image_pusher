@@ -12,4 +12,4 @@
 
 linzeyi/hivision_idphotos
 
-ubuntu:24.04
+openeuler:22.03
