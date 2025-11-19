@@ -12,4 +12,4 @@
 
 linzeyi/hivision_idphotos
 
-openeuler/openeuler:22.03
+hxsoong/kylin:v10-sp3
