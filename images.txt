@@ -12,3 +12,4 @@
 
 linzeyi/hivision_idphotos
 
+ubuntu:24.04
