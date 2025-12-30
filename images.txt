@@ -11,6 +11,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
+openeuler/openeuler:24.03-lts-sp1
 
 
-openeuler/openeuler-lts-sp1
