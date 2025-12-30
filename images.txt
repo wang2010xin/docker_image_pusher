@@ -10,6 +10,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-linzeyi/hivision_idphotos
 
-hxsoong/kylin:v10-sp3
+
+
+openeuler/openeuler-lts-sp1
