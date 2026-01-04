@@ -10,7 +10,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-openeuler/openeuler:24.03-lts-sp1
+vllm/vllm-openai:latest
 
 
