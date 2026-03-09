@@ -10,6 +10,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-vllm/vllm-openai:latest
-
-
+alpine/alpine:3.15
